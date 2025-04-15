@@ -1,0 +1,19 @@
+site_name: Nexlayer Docs
+site_url: https://docs.nexlayer.com
+
+theme:
+  logo: assets/logo.png
+  name: material
+  palette:
+   - scheme: slate #dark mode
+     toggle:
+       icon: material/toggle-switch
+       name: Switch to dark mode
+   - scheme: default #light mode
+     toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
+
+extra_css:
+  - stylesheets/extra.css
