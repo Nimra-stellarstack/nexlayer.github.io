@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://docs.nexlayer.com/</loc>
+         <lastmod>2025-04-15</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.nexlayer.com/code-example/</loc>
+         <lastmod>2025-04-15</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.nexlayer.com/content-tabs/</loc>
+         <lastmod>2025-04-15</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.nexlayer.com/sdk/node/</loc>
+         <lastmod>2025-04-15</lastmod>
+    </url>
+</urlset>
